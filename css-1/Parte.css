@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+boddy{
+background-color: black;
+}
+.container{
+    width: 900px;
+    margin: 0 auto;
+    height: 300px;
+    background-color: brown;
+    border: 5px double #ccc;
+}
+.filas1{
+    background-color: darkcyan;
+}
+.filas2{
+    background-color: yellowgreen;
+    padding: 7px;
+}
+.filas2 p{
+    background-color: rgb(211, 233, 18);
+    border: crimson solid 2px;
+    width: 150px;
+}
+
+.filas3{
+    background-color: rgb(121, 240, 240);
+    padding: 7px;
+    height: 25px;
+}
+.filas3 p{
+    background-color: rgb(211, 233, 18);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: left;
+    margin-right: 15px;
+}
+.filas4{
+    background-color: rgb(121, 240, 240);
+    padding: 7px;
+    height: 25px;
+    border: solid black 1px;
+}
+.filas4 p{
+    background-color: rgb(211, 233, 18);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: left;
+    margin-right: 15px;
+}
+
+

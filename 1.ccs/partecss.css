@@ -1,0 +1,332 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+background-color: black;
+}
+.container{
+    width: 900px;
+    margin: 0 auto;
+    height: 860px;
+    background-color: rgb(0, 0, 0);
+    border: 5px double rgb(163, 163, 163);
+}
+.filas1{
+    background-color: darkcyan;
+}
+.filas2{
+    background-color: yellowgreen;
+    padding: 7px;
+}
+.filas2 p{
+    background-color: rgb(252, 219, 00);
+    border: crimson solid 2px;
+    width: 150px;
+}
+
+.filas3{
+    background-color: rgb(121, 240, 240);
+    padding: 7px;
+    height: 25px;
+}
+.filas3 p{
+    background-color: rgb(252, 219, 00);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: left;
+    margin-right: 15px;
+}
+.filas4{
+    background-color: rgb(121, 240, 240);
+    padding: 7px;
+    height: 25px;
+    border: solid black 1px;
+}
+.filas4 p{
+    background-color: rgb(252, 219, 00);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: left;
+    margin-right: 15px;
+}
+.filas5 p{
+    background-color: gray;
+    padding: 7px;
+    height: 25px;
+    border: solid rgb(255, 255, 255) 1px;
+}
+.filas6{
+    background-color: rgb(230, 233, 66);
+    padding: 7px;
+    height: 25px;
+    border: solid rgb(255, 255, 255) 1px;
+}
+.filas6 p{
+    background-color: rgb(252, 219, 00);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: left;
+    margin-left: 735px;
+}
+.filas7{
+    background-color: rgb(162, 250, 166);
+    padding: 7px;
+    height: 25px;
+    border: solid rgb(255, 255, 255) 1px;
+}
+.filas7 p{
+   
+    background-color: rgb(230, 233, 66);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: right;
+    margin-left: 15px;
+}
+.filas8{
+    background-color: rgb(220, 178, 244);
+    padding: 7px;
+    height: 25px;
+    border: solid rgb(255, 255, 255) 1px;
+}
+.filas8 p{
+   
+    background-color: rgb(230, 233, 66);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: right;
+    margin-left: 15px;
+}
+.filas9{
+    background-color: rgb(162, 250, 166);
+    padding: 7px;
+    height: 25px;
+    border: solid rgb(255, 255, 255) 1px;
+}
+.filas9 p2{ 
+    background-color: rgb(230, 233, 66);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: right ;
+    margin-left: 280px;
+}
+.filas9 p{
+   
+    background-color: rgb(230, 233, 66);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: left ;
+    
+}
+.filas10{
+    background-color: rgb(162, 250, 166);
+    padding: 7px;
+    height: 25px;
+    border: solid rgb(255, 255, 255) 1px;
+}
+
+.filas10 p2{ 
+    background-color: rgb(230, 233, 66);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: right ;
+    margin-left: 280px;
+}
+.filas10 p{
+   
+    background-color: rgb(230, 233, 66);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: left ;
+    margin-right: 15px;
+}
+.filas10{
+    background-color: rgb(162, 250, 166);
+    padding: 7px;
+    height: 25px;
+    border: solid rgb(255, 255, 255) 1px;
+}
+
+.filas10 p2{ 
+    background-color: rgb(230, 233, 66);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: right ;
+    margin-left: 280px;
+}
+.filas10 p{
+   
+    background-color: rgb(230, 233, 66);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: left ;
+    margin-right: 15px;
+}
+.filas11{
+    background-color: rgb(162, 250, 166);
+    padding: 7px;
+    height: 25px;
+    border: solid rgb(255, 255, 255) 1px;
+}
+.filas11 p2{ 
+    background-color: rgb(230, 233, 66);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: right ;
+    margin-left: 15px;
+}
+.filas11 p{
+   
+    background-color: rgb(230, 233, 66);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: left ;
+    
+}
+.filas12{
+    background-color: rgb(162, 250, 166);
+    padding: 7px;
+    height: 25px;
+    border: solid rgb(255, 255, 255) 1px;
+}
+.filas12 p2{ 
+    background-color: rgb(230, 233, 66);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: right ;
+    margin-left: 15px;
+}
+.filas12 p{
+   
+    background-color: rgb(230, 233, 66);
+    border: rgb(255, 12, 12) solid 2px;
+    width: 150px;
+    float: left ;
+    margin-right: 15px;
+    
+}
+.filas13{
+    background-color: rgb(101, 205, 170);
+    padding: 7px;
+    height: 25px;
+    border: solid rgb(255, 255, 255) 1px;
+}
+.filas13 p {
+    background-color: rgb(248, 240, 240);
+    border: 1px solid #ccc;
+    width: 120px;
+    padding: 0px 50px 0px 50px;
+    
+}
+.filas14{
+  background-color: rgb(92, 219, 241);
+    padding: 7px;
+    height: 25px;
+    border: solid rgb(255, 255, 255) 1px;
+}
+.filas14 p{
+    background-color: rgb(15, 247, 255);
+    border: rgb(0, 0, 0) solid 1px;
+    width: 150px;
+    float: left;
+    margin-right: 15px;
+    text-align: center;
+    
+}
+
+.filas15{
+    background-color: rgb(92, 219, 241);
+    padding: 7px;
+    height: 25px;
+    border: solid rgb(255, 255, 255) 1px;
+}
+.filas15 p{
+    background-color: rgb(15, 247, 255);
+    border: rgb(0, 0, 0) solid 1px;
+    width: 150px;
+    float: left;
+    margin-right: 15px;
+    text-align: center;
+    
+}
+.container1{
+    width: 890px;
+    background-color:  rgb(94, 158, 160);
+    margin: 0 auto;
+    padding: 4px;
+    border: 1px solid white;
+}
+
+.subcaja p{
+    background-color: rgb(183, 135, 11);
+    width: 500px;
+    border: 1px solid rgb(255, 255, 255);
+    margin-right: 15px;
+   
+}
+.container1{
+    width: 890px;
+    background-color:  rgb(94, 158, 160);
+    margin: 0 auto;
+    padding: 4px;
+    border: 1px solid white;
+}
+.filas19{
+    width: 300px;
+    background-color: rgb(50, 162, 210);
+    padding: 5px;
+    border: 2px solid rgb(255, 255, 255);
+    margin-right: 15px;
+ 
+}
+.subcaja p{
+    background-color: rgb(183, 135, 11);
+    width: 300px;
+    border: 1px solid rgb(255, 255, 255);
+    margin-right: 15px;
+   
+}
+.container1{
+    width: 890px;
+    background-color:  rgb(94, 158, 160);
+    margin: 0 auto;
+    padding: 4px;
+    border: 1px solid white;
+}
+.filas20{
+    width: 300px;
+    background-color: rgb(50, 162, 210);
+    padding: 5px;
+    border: 2px solid rgb(255, 255, 255);
+    margin-left: 575px;
+ 
+}
+.subcaja p{
+    background-color: rgb(183, 135, 11);
+    width: 300px;
+    border: 1px solid rgb(255, 255, 255);
+    margin-right: 15px;
+   
+}
+.filas21 {
+    background-color: rgb(0, 0, 0);
+    border:2px solid white;
+    height: 60px;
+    padding: 5px;
+}
+.c1{
+width: 300px;
+background-color: rgb(189, 183, 107);
+height: 60px;
+float: left;
+border:1px solid white;
+}
+.c2{
+    width: 567px;
+    background-color: rgb(189, 183, 107);
+    height: 60px;
+    float: left;
+    margin-left: 15px;
+    border: 1px solid white;
+}
